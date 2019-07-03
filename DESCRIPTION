@@ -1,9 +1,9 @@
-Package: rpackage
+Package: PP Insuline
 Type: Package
-Title: What the package does (short line)
+Title: Precision y prediccion de insulina
 Version: 1.0
 Date: 2019-02-18
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Borja Rodriguez Sanz
+Maintainer: Who to complain to <fborjasanz@hotmail.com>
+Description: Unidades de insulina en función de los alimentos ingeridos
+License: PP Insuline
