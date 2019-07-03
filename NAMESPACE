@@ -1,5 +1,1 @@
-importFrom("readxl")
-importFrom("read.table", "DT")
-importFrom("stringr")
-
 export(MET, ficha_alimentacion)
