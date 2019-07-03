@@ -1,9 +1,9 @@
-Package: rpackage
+Package: P&P Insuline
 Type: Package
-Title: What the package does (short line)
+Title: Precision y prediccion de insulina
 Version: 1.0
 Date: 2019-02-18
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Authors@R: c( person("Borja", "Rodriguez Sanz", email="fborjasanz@hotmail.com", role=c('aut', 'cre')),
+              person("Jorge", "Fernandez Muñoz", email="jorge.fernan.munoz@gmail.com", role="ctb"))
+Description: Unidades de insulina en función de los alimentos ingeridos.
+Depends: devtools, DT, readxl, stringr
