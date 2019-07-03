@@ -1,1 +1,6 @@
-exportPattern("^[[:alpha:]]+")
+importFrom("readxl")
+importFrom("stringr")
+importFrom("read.table", "DT")
+imporFrom("backports")
+
+export(MET, ficha_alimentacion)
