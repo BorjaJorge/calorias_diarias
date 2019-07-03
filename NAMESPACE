@@ -1,4 +1,3 @@
-importFrom("devtools")
 importFrom("readxl")
 importFrom("read.table", "DT")
 importFrom("stringr")
