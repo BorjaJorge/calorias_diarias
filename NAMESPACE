@@ -1,4 +1,6 @@
+importFrom("devtools")
 importFrom("readxl")
-importFrom("read.table")
+importFrom("read.table", "DT")
+importFrom("stringr")
 
 export(MET, ficha_alimentacion)
