@@ -1,1 +1,1 @@
-export(MET, ficha_alimentacion)
+exportPattern("^[[:alpha:]]+")
