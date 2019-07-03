@@ -1,4 +1,4 @@
 importFrom("readxl")
 importFrom("read.table")
 
-export(
+export(MET, ficha_alimentacion)
